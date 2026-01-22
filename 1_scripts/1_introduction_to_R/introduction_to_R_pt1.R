@@ -23,5 +23,5 @@ swirl()
 # choose the course "swirl-tidy" 
 # do lessons 1-4, 6-10
 
-# continue pt.2 
+# continue to the pt.2 script
 

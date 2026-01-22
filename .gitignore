@@ -8,3 +8,6 @@ current_labs
 
 # files
 Statistics_An Introduction Using R.pdf
+.httr-oauth
+.DS_Store
+.quarto
