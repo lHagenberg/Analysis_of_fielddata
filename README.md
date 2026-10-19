@@ -2,8 +2,11 @@
 **1. Download the project**\
 To download the folder containing everything in this github project, click the blue "<> code" button, then select "download ZIP".
 
-**2. Open the project in R**\
+**2. Extract downloaded files**
 If you have [R](https://cloud.r-project.org) and [R studio](https://posit.co/downloads) downloaded and installed on your personal computer, extract the downloaded zip folder and place it where you please. If you are working on a university computer, place it in your personal folder on the network so you can access it on any other university computer.
+
+**3. Open the project in R studio**\
+Open the project in Rstudio by double clicking the .Rproj file in the folder. That will set the working directory to the folder it is located in for the rest of you R session.
 
 Make sure to save changes you make to the scripts so you can continue working on them next time.
 
