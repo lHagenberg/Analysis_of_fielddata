@@ -8,6 +8,9 @@
 
 # here you are going to put what you learned in pt.1 into practice
 
+#### Load packages ####
+library(tidyverse)
+
 #### Importing data ####
 # Use read_delim() from readr to load the "SilwoodWeather" dataset from the "2_data" folder in your project
 # Save it to a new object called "SilwoodWeather". 
@@ -84,4 +87,6 @@ help(geom_histogram)
 help(ggplot)
 help(stat_qq)
 help(stat_qq_line)
+
+
 

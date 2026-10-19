@@ -1,4 +1,4 @@
-# Central tendency and distribution pt.1
+# Visualization and data exploration pt.1
 
 # run this script using ctrl + enter (command + enter on mac)
 
@@ -9,10 +9,15 @@ install.packages("swirl")
 library(swirl)
 
 # install swirl courses 
-install_course("Statistical_Inference")
+install_course_github("sysilviakim", "swirl-tidy")
 
 # start swirl
 swirl()
 
 # write your responses to the prompts into the console
+# type info() while using swirl to get more information on navigating swirl
 
+# choose the course "swirl-tidy" 
+# do lessons 11-13
+
+# continue to the pt.2 script

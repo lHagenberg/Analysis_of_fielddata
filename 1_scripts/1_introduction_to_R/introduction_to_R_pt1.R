@@ -16,6 +16,7 @@ install_course_github("sysilviakim", "swirl-tidy")
 swirl()
 
 # write your responses to the prompts into the console
+# type info() while using swirl to get more information on navigating swirl
 
 # choose the course "R Programming"
 # do lessons 1-9 
@@ -24,4 +25,3 @@ swirl()
 # do lessons 1-4, 6-10
 
 # continue to the pt.2 script
-
