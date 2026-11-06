@@ -47,8 +47,9 @@ help(nrow)
 
 
 # Which song 10 songs have spent most time on the top 100 charts? 
-# Use max() to find out
-help(max)
+# Use arrange() and head() to find out
+help(arrange)
+help(head)
 
 
 # How many one day flies have been on the charts over the years?
@@ -62,7 +63,7 @@ help(filter)
 
 
 # Which song from of your favorite artists has spent most time on the charts?
-# use max() to find out
+# use filter() and max() to find out
 help(max)
 
 

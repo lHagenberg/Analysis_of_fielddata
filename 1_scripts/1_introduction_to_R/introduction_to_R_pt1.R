@@ -17,11 +17,14 @@ swirl()
 
 # write your responses to the prompts into the console
 # type info() while using swirl to get more information on navigating swirl
+# IF YOU RUN INTO ISSUES WITH SWIRL, please report them in the discussion forum on canvas.
+# if swirl does not accept your answer even though you produce the correct results, 
+# you can go to the next question using skip()
 
 # choose the course "R Programming"
-# do lessons 1-9 
+# do lessons 1-8 
 
 # choose the course "swirl-tidy" 
-# do lessons 1-4, 6-10
+# do lessons 1, 3, 7-11
 
 # continue to the pt.2 script
