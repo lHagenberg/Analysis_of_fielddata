@@ -22,6 +22,6 @@ swirl()
 # you can go to the next question using skip()
 
 # choose the course "swirl-tidy" 
-# do lessons 11-13
+# do lessons 17-19
 
 # continue to the pt.2 script

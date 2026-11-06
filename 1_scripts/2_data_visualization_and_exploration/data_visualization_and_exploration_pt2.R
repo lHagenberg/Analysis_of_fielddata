@@ -1,10 +1,11 @@
 # Visualization and data exploration pt.2
 
 # pro tips: 
-# 1) look at the help for each of the functions carefully
-# 2) the internet is a great resource if you get stuck with coding 
-# 3) knowing what you need/want to do is still the most important thing when using R!
-# 4) you can find cheat_sheets for this lab in the "4_cheat_sheets" folder
+# 1) work in scripts instead of the console to iterate, save and revisit your code
+# 2) look at the help for each of the functions carefully
+# 3) the internet is a great resource if you get stuck with coding 
+# 4) knowing what you need/want to do is still the most important thing when using R!
+# 5) you can find cheat_sheets for this lab in the "4_cheat_sheets" folder
 
 # here you are going to put what you learned in pt.1 into practice
 
